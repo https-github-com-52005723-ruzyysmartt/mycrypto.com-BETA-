@@ -1,7 +1,7 @@
 🏆##README md
 
    ##🏁 --MyCrypto.com-BETA--##🏁
-         ********************
+       
 
 💜Wellcome to github pages:[ Mycrypto.com-BETA ]
 
@@ -64,8 +64,8 @@ $ gulp zipit
 
 https://github.com/https-github-com-52005723-ruzyysmartt/MyCrypto.com-BETA.git  This is licensed under the :>
 
-         💯℅ MIT LICENSE
-           ***************
+          💯 ⚖ MIT LICENSE
+             ***************
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
 Licensed works, modifications, and larger works may be distributed under different terms and without source code.
