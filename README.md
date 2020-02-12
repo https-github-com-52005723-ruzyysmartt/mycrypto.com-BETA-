@@ -1,6 +1,12 @@
-### MyCrypto
+🏆##README md
 
-- [Web](https://mycrypto.com/)
+   ##🏁 --MyCrypto.com-BETA--##🏁
+         ********************
+
+💜Wellcome to github pages:[ Mycrypto.com-BETA ]
+
+More info:
+- [Web](https://github.com/52005723+ruzyysmartt/mycrypto.com-BETA.git
 - [Support](https://support.mycrypto.com/)
 - [Twitter](https://twitter.com/mycrypto)
 - [Blog](https://medium.com/@mycrypto)
@@ -12,12 +18,13 @@
 
 ### Download the Latest Release
 
-- [https://github.com/MyCryptoHQ/mycrypto.com/releases](https://github.com/MyCryptoHQ/mycrypto.com/releases)
+- [https://github.com/MyCryptoHQ/mycrypto.com-BETA/releases](https://github.com/MyCryptoHQ/mycrypto.com-BETA/releases)
 
 
-### Developers
+### DEVELOPERS
+    ***********
 
-- If you would like to contribute, please look at [our new and improved React/Typescript Repo](https://github.com/MyCryptoHQ/MyCrypto)
+- If you would like to contribute, please look at [our new and improved React/Typescript Repo](https://github.com/MyCryptoHQ/MyCrypto.com-BETA
 
 - master is the working / development branch
 
@@ -49,10 +56,54 @@ $ gulp prep
 $ gulp zipit
 ```
 
-#### License
+#### LICENSE
+    **********
 
-Adapted from https://github.com/kvhnuke/etherwallet
+    ***Mycrypto.com-BETA/LICENSE****
+    ***********************************
 
-Copyright (c) 2015-2017 MyEtherWallet LLC
+https://github.com/https-github-com-52005723-ruzyysmartt/MyCrypto.com-BETA.git  This is licensed under the :>
 
-Copyright (c) 2018 MyCrypto, Inc.
+         💯℅ MIT LICENSE
+           ***************
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
+Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+## MIT License
+
+Copyright (c) 2019-2020 ** Mycrypto.com-BETA LLC
+Copyright (c) 2020 MyCrypto.com Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+more info:
+MyCrypto.com-BETA /LICENSE
+
+https://github.com/https-github-com-52005723-ruzyysmartt/MyCrypto.com-BETA.git
+
+MIT License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. 
+© 2020 GitHub, 
+
+Adapted from://0 https://github.com/mycrypto.com-BETA
+
+Copyright (c) 2019-2020 My ethereum Wallet LLC
+
+Copyright (c) 2020 MyCrypto.com-BETA Inc.
