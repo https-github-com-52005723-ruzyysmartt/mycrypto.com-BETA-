@@ -7,13 +7,13 @@
 
 More info:
 - [Web](https://github.com/52005723+ruzyysmartt/mycrypto.com-BETA.git
-- [Support](https://support.mycrypto.com/)
-- [Twitter](https://twitter.com/mycrypto)
-- [Blog](https://medium.com/@mycrypto)
-- [Github](https://github.com/MyCryptoHQ)
-- [Reddit](https://www.reddit.com/r/MyCrypto)
-- [Facebook](https://www.facebook.com/MyCryptoHQ)
-- [LinkedIn](https://www.linkedin.com/company/mycrypto)
+- [Support](https://support.mycrypto.com-BETA )
+- [Twitter](https://twitter.com/mycrypto.com-BETA)
+- [Blog](https://medium.com/@mycrypto.com-BETA)
+- [Github](https://github.com/MyCryptoHQ/mycrypto.com-BETA)
+- [Reddit](https://www.reddit.com/r/MyCrypto.com-BETA)
+- [Facebook](https://www.facebook.com/MyCryptoHQ/mycrypto.com-BETA)
+- [LinkedIn](https://www.linkedin.com/company/mycrypto.com-BETA)
 
 
 ### Download the Latest Release
